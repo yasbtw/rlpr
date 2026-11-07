@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/yas/Documents/rlpr/build/cmake_install.cmake",
+		"/home/yas/Documents/rlpr/build/raylib/cmake_install.cmake",
+		"/home/yas/Documents/rlpr/build/raylib/raylib/cmake_install.cmake",
+		"/home/yas/Documents/rlpr/build/raylib/raylib/external/glfw/cmake_install.cmake",
+		"/home/yas/Documents/rlpr/build/raylib/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
